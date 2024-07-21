@@ -2,4 +2,4 @@
 	
 </script>
 
-<h1>Dormster</h1>
+<h1>Dormster!</h1>
