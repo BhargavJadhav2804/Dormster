@@ -1,0 +1,87 @@
+/**
+* @license
+*
+* Font Family: Ranade
+* Designed by: Easha Ranade, Indian Type Foundry
+* URL: https://www.fontshare.com/fonts/ranade
+* © 2024 Indian Type Foundry
+*
+* Ranade Thin 
+* Ranade ThinItalic 
+* Ranade Light 
+* Ranade LightItalic 
+* Ranade Regular 
+* Ranade Italic 
+* Ranade Medium 
+* Ranade MediumItalic 
+* Ranade Bold 
+* Ranade BoldItalic 
+* Ranade Variable (Variable font)
+* Ranade VariableItalic (Variable font)
+
+*
+*/
+@font-face {
+	font-family: 'Ranade';
+	src:
+		url('Ranade-Variable.woff2') format('woff2'),
+		url('Ranade-Variable.woff') format('woff2'),
+		url('Ranade-Variable.ttf') format('truetype');
+
+	font-weight: 200 700;
+	font-display: swap;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'GS';
+	src:
+		url('GeneralSans-Variable.woff2') format('woff2'),
+		url('GeneralSans-Variable.woff') format('woff2'),
+		url('GeneralSans-Variable.ttf') format('truetype');
+
+	font-weight: 200 700;
+	font-display: swap;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'CG';
+	src:
+		url('ClashGrotesk-Variable.woff2') format('woff2'),
+		url('ClashGrotesk-Variable.woff') format('woff2'),
+		url('ClashGrotesk-Variable.ttf') format('truetype');
+
+	font-weight: 200 700;
+	font-display: swap;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Expose';
+	src:
+		url('Expose-Variable.woff2') format('woff2'),
+		url('Expose-Variable.woff') format('woff2'),
+		url('Expose-Variable.ttf') format('truetype');
+
+	font-weight: 200 700;
+	font-display: swap;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Satoshi';
+	src:
+		url('Satoshi-Variable.woff2') format('woff2'),
+		url('Satoshi-Variable.woff') format('woff2'),
+		url('Satoshi-Variable.ttf') format('truetype');
+
+	font-weight: 200 700;
+	font-display: swap;
+	font-style: normal;
+}
+@font-face {
+    font-family: 'abel';
+    src: url('abel-regular-webfont.woff2') format('woff2'),
+         url('abel-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
